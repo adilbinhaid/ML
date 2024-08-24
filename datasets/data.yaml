@@ -1,0 +1,5 @@
+train: /home/haid/PycharmProjects/datasets/split/images/train
+val: /home/haid/PycharmProjects/datasets/split/images/val     
+nc: 10                         
+names: ['person', 'hard-hat', 'gloves', 'mask', 'glasses', 'boots', 'vest', 'ppe-suit', 'ear-protector', 'safety-harness']  
+
